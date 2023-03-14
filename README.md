@@ -1,5 +1,5 @@
-###### Hola! Mi nombre es Benjamin Castro
-Tambien conocido como Yuarinaim en Github
+# Hola! Mi nombre es Benjamin Castro
+#### Tambien conocido como Yuarinaim en Github
 
 Quien soy? 
 
