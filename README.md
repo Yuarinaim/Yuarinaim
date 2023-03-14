@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hola! Mi nombre es Benjamin Castro
+Tambien conocido como Yuarinaim en Github
+
+Quien soy? 
+Soy un Full Stack Developer en busqueda de trabajo, cumplir objetivos y cambiar mi vida.
+Siempre me gusto el mundo de la tecnologia, asi que era seguro que iba a tener un trabajo relacionado a la tecnologia, por eso es que me decidi por programar, el tener que pensar y buscar solucion a los problemas me parece divertido, pero antes de todo esto tuve que pasar ciertos desafios... 
+Cuando me decidi a estudiar programacion no sabia por donde empezar, no tenia un camino a seguir, tome mi propio camino hasta que encontre SoyHenry. Con el curso aprendi muchisimo!! Logre pasar a la etapa final y aprobe. Finalice el curso con muchas experiencias y con muchos conocimientos, los cuales estoy ansioso de aplicar en un entorno laboral!
+
+
 
 <!--
 **Yuarinaim/Yuarinaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
