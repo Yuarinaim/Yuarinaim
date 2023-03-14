@@ -9,6 +9,10 @@ Cuando me decidi a estudiar programacion no sabia por donde empezar, no tenia un
 
 
 
+
+css3 git html5 javascript mysql nodejs postgresql postman react redux sass sqlite tailwind webpack
+
+
 <!--
 **Yuarinaim/Yuarinaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
