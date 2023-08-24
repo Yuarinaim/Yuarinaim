@@ -28,7 +28,7 @@ When I decided to study programming I didn't know where to start, I didn't have 
 
 - 🌎 Soy de - Im from: Cordoba - Argentina
 
-- 📫 Correo electronico - Email: **benyamin0714@gmail.com**
+- 📫 Correo electronico - Email: **benjacastro.dev@gmail.com**
 
 <h3 align="left">Contacta conmigo - Contact with me</h3>
 <p align="center">
