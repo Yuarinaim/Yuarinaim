@@ -15,7 +15,7 @@ I always liked the world of technology, so it was sure that I was going to have 
 When I decided to study programming I didn't know where to start, I didn't have a path to follow, I took my own path until I found SoyHenry. With the course I learned a lot! I made it to the final stage and passed. I finished the course with many experiences and a lot of knowledge, which I am eager to apply in a work environment!
 </p>
 
-- 💻 Trabajando - Working : [Pet-Friendly-Universe](https://petfriendlyuniverse.vercel.app/) en colaboracion con:
+- 💻 Trabajo - Work : [Pet-Friendly-Universe](https://petfriendlyuniverse.vercel.app/) en colaboracion con:
   - [Stefano Gemelli](https://github.com/stefanogemelli)
   - [Federico Almeida](https://github.com/FedericoA15)
   - [Pablo Amico](https://github.com/pablosecuen)
@@ -24,7 +24,7 @@ When I decided to study programming I didn't know where to start, I didn't have 
   - [Agustin Chavero](https://github.com/AgustinChavero)
   - [Florencia Marcos](https://github.com/FlorenciaMarcos)
 
-- 👄 Idiomas - Languages: Español - English
+- 👄 Idiomas - Languages: Español - English (B2)
 
 - 🌎 Soy de - Im from: Cordoba - Argentina
 
