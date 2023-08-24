@@ -8,6 +8,12 @@ Soy un Full Stack Developer en busqueda de trabajo, cumplir objetivos y cambiar 
 Siempre me gusto el mundo de la tecnologia, asi que era seguro que iba a tener un trabajo relacionado a la tecnologia, por eso es que me decidi por programar, el tener que pensar y buscar solucion a los problemas me parece divertido, pero antes de todo esto tuve que pasar ciertos desafios... 
 Cuando me decidi a estudiar programacion no sabia por donde empezar, no tenia un camino a seguir, tome mi propio camino hasta que encontre SoyHenry. Con el curso aprendi muchisimo!! Logre pasar a la etapa final y aprobe. Finalice el curso con muchas experiencias y con muchos conocimientos, los cuales estoy ansioso de aplicar en un entorno laboral!
 </p>
+<p align="center">_   _   _   _   _   _</p>
+<p>
+I am a Full Stack Developer looking for a job, to achieve goals and change my life.
+I always liked the world of technology, so it was sure that I was going to have a job related to technology, that's why I decided to program, having to think and find solutions to problems seems fun to me, but before all this I had to pass certain challenges... 
+When I decided to study programming I didn't know where to start, I didn't have a path to follow, I took my own path until I found SoyHenry. With the course I learned a lot! I made it to the final stage and passed. I finished the course with many experiences and a lot of knowledge, which I am eager to apply in a work environment!
+</p>
 
 - 💻 Trabajando - Working : [Pet-Friendly-Universe](https://petfriendlyuniverse.vercel.app/) en colaboracion con:
   - [Stefano Gemelli](https://github.com/stefanogemelli)
