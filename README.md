@@ -45,10 +45,6 @@ When I decided to study programming I didn't know where to start, I didn't have 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yuarinaim" alt="Yuarinaim" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yuarinaim&show_icons=true&locale=en" alt="Yuarinaim" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuarinaim&" alt="Yuarinaim" /></p>
-
 
 
 <!--
